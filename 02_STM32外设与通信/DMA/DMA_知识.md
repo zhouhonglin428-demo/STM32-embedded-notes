@@ -4,12 +4,12 @@
 
 ==*区别*==
 
-![区别](./../assets/区别.png)
+![区别](./assets/区别.png)
 
 
 
 # 数据长度（数据宽度）
 
-![{A976B0BC-674D-405A-B13C-8D39B9C548E6}](./../assets/{A976B0BC-674D-405A-B13C-8D39B9C548E6}.png)
+![{A976B0BC-674D-405A-B13C-8D39B9C548E6}](./assets/{A976B0BC-674D-405A-B13C-8D39B9C548E6}.png)
 
 我目标是uint32_t就是配置word如果是uint16_t就是配置HALF

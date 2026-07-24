@@ -22,4 +22,4 @@ GPIO_InitTypeDef,GPIO_PinAFConfig()
 
 第六步：编写中断服务函数
 
-![image-20260722191243897](./../assets/image-20260722191243897.png)
+![image-20260722191243897](./assets/image-20260722191243897.png)
